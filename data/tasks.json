@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1794123777441-0-1794123777442",
+    "goalId": "1794123777441",
+    "day": 1,
+    "title": "Introduction to Java",
+    "description": "Learn about Java installation, IDE setup, and basic syntax. Write your first 'Hello, World!' program.",
+    "completed": false,
+    "createdAt": "2026-11-08T07:42:57.442Z"
+  },
+  {
+    "id": "1794123777441-1-1794123777442",
+    "goalId": "1794123777441",
+    "day": 2,
+    "title": "Control Structures and Methods",
+    "description": "Understand and practice using loops (for, while), conditionals (if, switch), and methods. Write small programs that utilize these concepts.",
+    "completed": false,
+    "createdAt": "2026-11-08T07:42:57.442Z"
+  },
+  {
+    "id": "1794123777441-2-1794123777442",
+    "goalId": "1794123777441",
+    "day": 3,
+    "title": "Building a Simple Java Application",
+    "description": "Combine all learned concepts to create a simple Java application. Focus on using variables, control structures, and methods.",
+    "completed": false,
+    "createdAt": "2026-11-08T07:42:57.442Z"
+  }
+]

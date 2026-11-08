@@ -1,0 +1,43 @@
+[
+  {
+    "title": "Learn Java basics",
+    "durationDays": 3,
+    "plan": {
+      "milestones": [
+        "Understand Java basics: syntax, variables, data types",
+        "Learn control structures: loops, conditionals, and methods",
+        "Create a simple Java application using learned concepts"
+      ],
+      "dailyTasks": [
+        {
+          "day": 1,
+          "title": "Introduction to Java",
+          "description": "Learn about Java installation, IDE setup, and basic syntax. Write your first 'Hello, World!' program."
+        },
+        {
+          "day": 2,
+          "title": "Control Structures and Methods",
+          "description": "Understand and practice using loops (for, while), conditionals (if, switch), and methods. Write small programs that utilize these concepts."
+        },
+        {
+          "day": 3,
+          "title": "Building a Simple Java Application",
+          "description": "Combine all learned concepts to create a simple Java application. Focus on using variables, control structures, and methods."
+        }
+      ],
+      "successMetrics": [
+        "Successfully run 'Hello, World!' program",
+        "Complete coding exercises using control structures",
+        "Build and run a simple Java application with no errors"
+      ],
+      "challenges": [
+        "Understanding object-oriented concepts if introduced too early",
+        "Debugging small errors in code, which may be frustrating"
+      ],
+      "motivationalApproach": "Set small goals for each session and reward yourself with breaks or treats after completing each task. Keep a journal to track your progress and celebrate small wins."
+    },
+    "status": "active",
+    "id": "1794123777441",
+    "createdAt": "2026-11-08T07:42:57.441Z"
+  }
+]
