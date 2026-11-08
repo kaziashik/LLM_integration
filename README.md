@@ -1,4 +1,4 @@
-# Agentic AI Crash Course
+# LLM
 
 A beginner-friendly crash course on building **Agentic AI** applications using Node.js, the OpenAI SDK, and [OpenRouter](https://openrouter.ai) for model routing.
 
@@ -13,9 +13,9 @@ Agentic AI refers to AI systems that can autonomously plan, reason, and take act
 ## Project Structure
 
 ```
-agentic-ai-crash-course/
+LLM/
 ├── backend/
-│   ├── ai-agents.js      # Main AI agent script
+│   ├── agents.js      # Main AI agent script
 │   ├── package.json      # Node.js dependencies
 │   └── pnpm-lock.yaml    # Lockfile (pnpm)
 └── README.md
